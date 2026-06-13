@@ -1,2 +1,2 @@
 # UoS-AER
-University of Sheffield AER and ELE projects
+University of Sheffield - Aerospace Engineering Course Projects
